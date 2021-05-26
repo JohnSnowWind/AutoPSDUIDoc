@@ -4,11 +4,11 @@
 
 ## Description
 
-AutoPSDUI是一个用于将PSD导入到虚幻编辑器时，自动构建WBP的插件。该插件对多种控件类型支持良好。
+AutoPSDUI is a plugin for automatically building WBP when importing PSD into the UE4 editor and it supports many widget types well.
 
 ## Features
 
-插件支持以下控件类型和属性：
+The  following widget types and  properties supported by AutoPSDUI:
 
 * Canvas Panel
 
@@ -46,7 +46,7 @@ AutoPSDUI是一个用于将PSD导入到虚幻编辑器时，自动构建WBP的�
 
 ## PSD Structure Design
 
-WBP的控件类型需要对应PSD的图层设计需要遵循以下规则：
+If you want to use this plug-in smoothly, you should follow the following rules to design your PS layer:  
 
 ### Canvas Panel
 
